@@ -1,0 +1,18 @@
+La diferencia es que mientras que los lenguajes imperativos son los lenguajes 
+en los que se le dan una secuencia definida de instrucciones a la computadora
+de lo que esperamos que haga mientras que los lenguajes declarativos solo se hace 
+la soliciud a la computadora no importando el procedimiento que realice mientras 
+devuelva la salida esperada
+
+Ejemplo
+Lenguajes imperativos
+-python
+-java
+-c
+-c++
+
+Lenguajes declarativos 
+-sql
+-ML
+-Haskell
+-Prolog
