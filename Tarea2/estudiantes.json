@@ -1,0 +1,32 @@
+{
+    "universidad": [
+        {
+            "id": 1,
+            "nombre": "USAC",
+            "Clasificacion": "publica",
+            "lema": "Id y enseñad a todos"
+        }
+    ],
+    "facultad": [
+        {
+            "id": 8,
+            "nombre": "Ingenieria",
+            "carreras": 12,
+            "Estudiantes": 12500
+        }
+    ],
+    "carrera": {
+            "nombre": "Ciencias y Sistemas",
+            "codigo": 9,
+            "cursos": 50,
+            "pensum": "abierto"
+    },
+    "estudiante": [
+        {
+            "carnet": 201318644,
+            "nombre": "Mynor Cifuentes",
+            "correo": "mynorcifuentes@ieee.org",
+            "Estudiante activo": true
+        }
+    ]
+}
