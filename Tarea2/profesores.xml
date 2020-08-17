@@ -1,0 +1,29 @@
+<universidad>
+    <id>1</id>
+    <nombre>USAC</nombre>
+    <clasificacion></clasificacion>
+    <lema>Id y eseniad a todos</lema>
+</universidad>
+
+<facultad>
+    <id>8</id>
+    <nombre>ingenieria</nombre>
+    <carreras>12<carreras/>
+    <estudintes>12500</estudintes>
+</facultad>
+
+<carrera>
+    <id>9</id>
+    <nombre>Ciencias y Sistemas</nombre>
+    <cursos>50</cursos>
+    <pensum>abierto</pensum>
+</carrera>
+
+<estudiante>
+    <id>201318644</id>
+    <nombre>Mynor Cifuentes</nombre>
+    <correo>mynorcifuentes@ieee.ot</correo>
+    <inscrito>true</inscrito>
+</estudiante>
+    
+  
