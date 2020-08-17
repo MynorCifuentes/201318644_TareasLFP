@@ -14,7 +14,7 @@
 
 <carrera>
     <id>9</id>
-    <nombre>Ciencias y Sistemas</nombre>
+    <nombre>ciencias y sistemas</nombre>
     <cursos>50</cursos>
     <pensum>abierto</pensum>
 </carrera>
@@ -22,7 +22,7 @@
 <estudiante>
     <id>201318644</id>
     <nombre>Mynor Cifuentes</nombre>
-    <correo>mynorcifuentes@ieee.ot</correo>
+    <correo>mynorcifuentes@ieee.org</correo>
     <inscrito>true</inscrito>
 </estudiante>
     
