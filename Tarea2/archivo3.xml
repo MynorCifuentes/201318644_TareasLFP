@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Profesores>
+<Archivo3>
     <Universidad id="1" nombre="USAC" clasificacion="La mejor" lema="Id y enseniad a todos">
         <Universidad id="1"></Universidad>
         <!-- <Universidad nombre="USAC"></Universidad> -->
@@ -28,4 +28,4 @@
         <correo>mynorcifuentes@ieee.org</correo>
         <inscrito>true</inscrito>
     </Estudiante>
-</Profesores>
+</Archivo3>

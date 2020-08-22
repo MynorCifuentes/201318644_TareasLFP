@@ -1,7 +1,7 @@
 import json
 
 def readJson():
-    miArchivo = open('estudiantes.json')
+    miArchivo = open('archivo1.json')
     data = json.load(miArchivo)
     miArchivo.close()
     print(data)

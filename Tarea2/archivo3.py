@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-archivo_xml = ET.parse('profesores.xml')
+archivo_xml = ET.parse('archivo3.xml')
 
 raiz = archivo_xml.getroot()
 
