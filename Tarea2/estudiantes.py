@@ -10,5 +10,6 @@ def readJson():
 dict=readJson()
 for palabras in dict:
     print(palabras)
+print('Tipo de la estructura',type(readJson))
 
 

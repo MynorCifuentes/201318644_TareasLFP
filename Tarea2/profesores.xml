@@ -1,29 +1,31 @@
-<universidad>
-    <id>1</id>
-    <nombre>USAC</nombre>
-    <clasificacion></clasificacion>
-    <lema>Id y eseniad a todos</lema>
-</universidad>
+<?xml version="1.0"?>
+<Profesores>
+    <Universidad id="1" nombre="USAC" clasificacion="La mejor" lema="Id y enseniad a todos">
+        <Universidad id="1"></Universidad>
+        <!-- <Universidad nombre="USAC"></Universidad> -->
+        <nombre>USAC</nombre>
+        <clasificacion></clasificacion>
+        <lema>Id y eseniad a todos</lema>
+    </Universidad>
 
-<facultad>
-    <id>8</id>
-    <nombre>ingenieria</nombre>
-    <carreras>12<carreras/>
-    <estudintes>12500</estudintes>
-</facultad>
+    <Facultad id="8" nombre ="Ingenieria" carreras="12" estudiantes="12,500">
+        <id>8</id>
+        <nombre>ingenieria</nombre>
+        <carreras>12</carreras>
+        <estudintes>12500</estudintes>
+    </Facultad>
 
-<carrera>
-    <id>9</id>
-    <nombre>ciencias y sistemas</nombre>
-    <cursos>50</cursos>
-    <pensum>abierto</pensum>
-</carrera>
+    <Carrera id="9" nombre = "Ciencias y Sistemas" cursos="50" pensum="abierto">
+        <id>9</id>
+        <nombre>ciencias y sistemas</nombre>
+        <cursos>50</cursos>
+        <pensum>abierto</pensum>
+    </Carrera>
 
-<estudiante>
-    <id>201318644</id>
-    <nombre>Mynor Cifuentes</nombre>
-    <correo>mynorcifuentes@ieee.org</correo>
-    <inscrito>true</inscrito>
-</estudiante>
-    
-  
+    <Estudiante id="201318644" nombre="Mynor Cifuentes" correo="mynorcifuentes@ieee.org" inscrito="true">
+        <id>201318644</id>
+        <nombre>Mynor Cifuentes</nombre>
+        <correo>mynorcifuentes@ieee.org</correo>
+        <inscrito>true</inscrito>
+    </Estudiante>
+</Profesores>
