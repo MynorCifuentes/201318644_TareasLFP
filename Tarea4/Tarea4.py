@@ -13,7 +13,7 @@ lista = list()
 dict = readJson()
 mensajeArriba ="""
 <html>
-    <head></head>
+    <head><link href="Style.css" rel="stylesheet" type="text/css"></head>
     <body>
     <table>
 """
