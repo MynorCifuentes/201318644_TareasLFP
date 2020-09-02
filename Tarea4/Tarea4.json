@@ -1,0 +1,32 @@
+{
+    "Objeto1": [
+        {
+            "nombre": "Mynor",
+            "edad": 23,
+            "activo": true,
+            "saldo": 200
+        }
+    ],
+    "facultad": [
+        {
+            "id": 8,
+            "nombre": "Ingenieria",
+            "carreras": 12,
+            "estudiantes": 12500
+        }
+    ],
+    "carrera": {
+            "codigo": 9,
+            "nombre": "Ciencias y Sistemas",
+            "cursos": 50,
+            "pensum": "abierto"
+    },
+    "estudiante": [
+        {
+            "carnet": 201318644,
+            "nombre": "Mynor Cifuentes",
+            "correo": "mynorcifuentes@ieee.org",
+            "inscrito": true
+        }
+    ]
+}
